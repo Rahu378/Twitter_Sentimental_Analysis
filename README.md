@@ -72,20 +72,6 @@ Social media platforms like Twitter generate vast amounts of sentiment-rich data
 
 ---
 
-## **Screenshots**
-### Sentiment Distribution:
-![Sentiment Distribution](screenshots/sentiment_distribution.png)
-
-### Word Cloud:
-![Word Cloud](screenshots/word_cloud.png)
-
----
-
-## **Project Report**
-The full project report is available [here](Report.pdf).
-
----
-
 ## **Contributors**
 - **Rahul Reddy Chidipudi**
 
