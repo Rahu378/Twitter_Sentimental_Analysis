@@ -86,4 +86,3 @@ Social media platforms like Twitter generate vast amounts of sentiment-rich data
 
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
