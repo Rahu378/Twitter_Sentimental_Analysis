@@ -1,4 +1,4 @@
-```markdown
+
 # Twitter Sentimental Analysis
 
 Twitter Sentimental Analysis is a Python-based project aimed at analyzing the sentiment of tweets. The goal is to classify tweets as **positive**, **negative**, or **neutral**, providing insights into public opinion on various topics. This project uses data science and machine learning techniques to process and analyze Twitter data effectively.
