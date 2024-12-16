@@ -87,11 +87,3 @@ Social media platforms like Twitter generate vast amounts of sentiment-rich data
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
----
-
-### **Next Steps**
-1. Place this README.md in your repository's root directory.
-2. Add related screenshots (e.g., sentiment plots, word clouds) in a `screenshots/` folder to enhance the visuals.
-3. Ensure all referenced files (`Report.pdf`, `Twitter_SentiMental_Analysis.ipynb`) are included in the repository.
-
